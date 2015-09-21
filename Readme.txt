@@ -1,3 +1,6 @@
+
+Appplication available : http://vzwallet.cfapps.io/spring_security_login;jsessionid=0EB6FA4FFBCA1749BD32605EF0682DAC
+
 softies (file://SCSBWIN-790039/softies)
 
 113.128.160.185
