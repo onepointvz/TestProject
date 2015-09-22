@@ -31,7 +31,7 @@ Softies required:
 4) Eclipse Luna - Required
 5) M2Eclipse - http://download.eclipse.org/technology/m2e/releases/ - Required
 7) Notepad++ - https://notepad-plus-plus.org/download/v6.8.3.html - Required
-8) GITHUB Desktop - https://desktop.github.com/ 
+8) GITHUB Desktop - https://desktop.github.com/ or http://download.eclipse.org/egit/updates 
 9) Apache HTTP server - Required
 10) Tomcat 8 - https://tomcat.apache.org/download-80.cgi - Required
 11) Ruby - http://rubyinstaller.org/downloads/
