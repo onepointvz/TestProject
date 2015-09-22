@@ -25,12 +25,17 @@ org.apache.maven.plugins:
 
 
 Softies required:
-
 1) Chrome
-2) Java 8 - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-3) Maven - 
-4) Eclipse Luna - 
-5) M2Eclipse - http://download.eclipse.org/technology/m2e/releases/
-7) Notepad++ - https://notepad-plus-plus.org/download/v6.8.3.html
-8) GITHUB Desktop - 
-9) Apache HTTP server
+2) Java 8 - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html - Required
+3) Maven - Required
+4) Eclipse Luna - Required
+5) M2Eclipse - http://download.eclipse.org/technology/m2e/releases/ - Required
+7) Notepad++ - https://notepad-plus-plus.org/download/v6.8.3.html - Required
+8) GITHUB Desktop - https://desktop.github.com/ 
+9) Apache HTTP server - Required
+10) Tomcat 8 - https://tomcat.apache.org/download-80.cgi - Required
+11) Ruby - http://rubyinstaller.org/downloads/
+12) rhc - gem install rhc from GIT shell.
+13) Putty - http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html - Required
+14) Mputty - http://ttyplus.com/downloads.html - Required
+15) WINSCP - https://winscp.net/download/winscp575setup.exe - Required
