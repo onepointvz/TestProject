@@ -1,4 +1,15 @@
 
+
+Just Created our own Project Tracking application 
+
+https://vzwonepoint.atlassian.net/secure/RapidBoard.jspa?projectKey=OP&rapidView=1&view=planning.nodetail
+
+and One Chat Client also 
+
+https://www.hipchat.com/invite/445884/2ed3bb5c1650044f78be9b3fb04302b2?utm_campaign=company_room_link
+
+
+
 Appplication available :    http://vzwallet.cfapps.io/spring_security_login
 
 softies (file://SCSBWIN-790039/softies)
